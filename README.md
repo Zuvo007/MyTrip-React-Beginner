@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).This is a frontend of a Traveling website made using react.js and it was hosted on Netlify and to get the actual overview how it looks on browsers of desktop as well as mobiles and tablets do check this link [https://gifted-hopper-5625ae.netlify.app/](https://gifted-hopper-5625ae.netlify.app/).
 
 ## Available Scripts
 
